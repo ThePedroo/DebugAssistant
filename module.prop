@@ -4,3 +4,4 @@ version=v3.0.2
 versionCode=302
 author=ThePedroo
 description=If can be made, why not done?
+updateJson=https://raw.githubusercontent.com/ThePedroo/RemoteFiles/refs/heads/main/DebugAssistant/update.json
